@@ -1,4 +1,4 @@
-// var pl = ["303-506-6581", "3037216817", "(720) 971-1518"];
+// var pl = [];
 
 function pnlMax() {
   "use strict";
